@@ -26,8 +26,8 @@ SECRET_KEY = 'jbq343hes9od%*5)k=j9-b0bayf_2ot9ed2bmr)jigqfij82po'
 DEBUG = True
 
 #Após implantação
-#ALLOWED_HOSTS = ['127.0.0.1', 'elain@NANE-ACER.pythonanywhere.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'elainecro.pythonanywhere.com']
+#ALLOWED_HOSTS = []
 
 
 # Application definition
